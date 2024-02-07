@@ -20,7 +20,7 @@
                 <Button Style="{StaticResource RoundBtn}" Width="60" x:Name="Wiazrd" Click="Wiazrd_Click">Wizard</Button>
             </StackPanel>
             <StackPanel>
-                <TextBlock Margin="10 10 10 10" Width="150">Введите имя</TextBlock>
+                <TextBlock  Margin="10 10 10 10" Width="150">Введите имя</TextBlock>
                 <TextBox Style="{StaticResource RoundTb}" x:Name="Klichka"></TextBox>
             </StackPanel>
             <Button Style="{StaticResource RoundBiznesBtn}" Margin="10" x:Name="Next" Click="Next_Click">Чо за бизнес...</Button>

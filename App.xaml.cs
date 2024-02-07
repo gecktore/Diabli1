@@ -14,5 +14,6 @@ namespace Diabli1
     public partial class App : Application
     {
         public static string Hero = "";
+        public static string Name = "";
     }
 }

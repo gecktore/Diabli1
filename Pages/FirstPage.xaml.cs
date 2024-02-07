@@ -53,6 +53,7 @@ namespace Diabli1.Pages
             }
             else
             {
+                App.Name = Klichka.Text;
                 NavigationService.Navigate(new PropertyPage());
             }
             
